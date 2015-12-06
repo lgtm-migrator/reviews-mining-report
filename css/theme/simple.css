@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=News+Cycle:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic|News+Cycle:400,700|Lato:400,300,300italic,400italic|Open+Sans:400,300,400italic,600,300italic&subset=latin,vietnamese,latin-ext,greek-ext,cyrillic,cyrillic-ext,greek);
+
 /**
  * A simple theme for reveal.js presentations, similar
  * to the default theme. The accent color is darkblue.
@@ -15,7 +15,7 @@ body {
   background-color: #fff; }
 
 .reveal {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans Condensed', 'Lato', sans-serif;
   font-size: 36px;
   font-weight: normal;
   color: #000; }
@@ -35,7 +35,7 @@ body {
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
   margin: 0 0 20px 0;
   color: #000;
-  font-family: 'News Cycle', Impact, sans-serif;
+  font-family: 'Open Sans Condensed', 'Lato', 'News Cycle', Impact, sans-serif;
   font-weight: normal;
   line-height: 1.2;
   letter-spacing: normal;
