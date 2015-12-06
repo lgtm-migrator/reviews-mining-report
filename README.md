@@ -1,11 +1,12 @@
-# Prediction.io Introduction 
+# Reviews Mining Report
 
-Live presentation at: https://intro-prediction.duyetdev.com
+Live presentation at: https://reviews-mining-report.duyetdev.com
 
-<img src="https://i.imgur.com/TQ8u1ko.png" />
+<img src="https://i.imgur.com/JirPKTR.png" />
 
 # References 
 
+- Reviews Mining Crawler and Dashboard in Nodejs: https://github.com/duyetdev/reviews-mining
 - Prediction.io: https://prediction.io
 - Beautiful presentations using HTML by reveal.js: https://github.com/hakimel/reveal.js
 
